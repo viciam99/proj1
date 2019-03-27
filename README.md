@@ -1,4 +1,5 @@
 # proj1
 # sa vedem ce iese
 ADAUGAT IN MASTER
-                adaugat in proj1
+
+             adaugat in proj1
